@@ -22,12 +22,12 @@
   }
   
   .example {
-    font-family: "Roboto", sans-serif;
+    font-family: "Quicksand", sans-serif;
   }
   
   /* Navbar */
   .navbar {
-    font-family: "Roboto", sans-serif;
+    font-family: "Quicksand", sans-serif;
     position: fixed;
     width: 100%;
     background: var(--primary);
